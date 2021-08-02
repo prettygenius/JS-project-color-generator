@@ -1,0 +1,26 @@
+body{
+
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+}
+
+#mybtn{
+    background-color: green;
+    color: black;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 50px;
+    
+}
+
+#mybtn:hover{
+    background-color: red;
+}
